@@ -1,6 +1,6 @@
 var Slack = require('slack-node');
 
-webhookUri = 'https://hooks.slack.com/services/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';
+webhookUri = 'https://hooks.slack.com/services/????/????/???';
 
 slack = new Slack();
 slack.setWebhook(webhookUri);

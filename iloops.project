@@ -1,0 +1,8 @@
+{
+  "name": "slack-noti",
+  "app_id": "slack-noti-1",
+  "main_script": "src/app.js",
+  "loops": {
+    "cron_format": "@every"
+  }
+}
